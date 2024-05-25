@@ -10,7 +10,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/Fallback/index.
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",Raja1
 http://starshare.live:8080/live/Antoinette/Antoinette/19741.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",Raja2
-https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
+https://raja-iptv.netlify.app/play/Discovery.html
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV World
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV Chattogram
