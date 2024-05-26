@@ -21,14 +21,18 @@ http://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 https://allinonereborn.tech/jio.m3u8?id=2548
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD 2 -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/95769
-#EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD 1 -{[Raja-IPTV]}-
 https://allinonereborn.tech/jio.m3u8?id=2550
+#EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD 2 -{[Raja-IPTV]}-
+http://sansat.net:88/02029761595924/9d089925dc60a821/95770
 #EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 1 -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/100716
 #EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 2 -{[Raja-IPTV]}-
 http://xtv.ooo:8080/Sehrish/12345/245893
-#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema HD 1 -{[Raja-IPTV]}-
 http://xtv.ooo:8080/Sehrish/12345/245897
+#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema HD 2 -{[Raja-IPTV]}-
+http://sansat.net:88/02029761595924/9d089925dc60a821/95774
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/0yHGPrfQ/29511835-1922443984455980-2015363906932341957-n.png",Zee 24 Ghanta -{[Raja-IPTV]}-
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News -{[Raja-IPTV]}-
