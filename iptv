@@ -101,17 +101,17 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",SPORTS 18 HD -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",SPORTS 18 Khel -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",SPORTS 18 Khel -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",JC Sports 24x7 -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="https://i.postimg.cc/SRDqH0pB/jcs.png",JC Sports 24x7 -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",CricStream -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="https://i.postimg.cc/KzhZMrNH/jc.png",CricStream -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg",CNBC Bazaar -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",CNBC Bazaar -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",CNBC Tv 18 -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18 -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News18 India -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
