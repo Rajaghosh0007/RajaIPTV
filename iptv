@@ -11,27 +11,27 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/Fallback/index.
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Kids.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Sony Yah -{[Raja-IPTV]}-
 http://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 group-title="Star" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Star Jalsha HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD -{[Raja-IPTV]}-
 https://allinonereborn.tech/jio.m3u8?id=2548
-#EXTINF:-1 group-title="Star" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Jalsha Movies HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD -{[Raja-IPTV]}-
 https://allinonereborn.tech/jio.m3u8?id=2550
-#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Zee Bangla HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/100716
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Zee 24 Ghanta -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/0yHGPrfQ/29511835-1922443984455980-2015363906932341957-n.png",Zee 24 Ghanta -{[Raja-IPTV]}-
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Zee News -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News -{[Raja-IPTV]}-
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Zee Business -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business -{[Raja-IPTV]}-
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",ABP Ananda-{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP Ananda-{[Raja-IPTV]}-
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",ABP News -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News -{[Raja-IPTV]}-
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Aajtak HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aajtak HD -{[Raja-IPTV]}-
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",NDTV Khabar -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/SK26sqTG/947e405ff7b832e61e4c1de5913f51a3.png",NDTV Khabar -{[Raja-IPTV]}-
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Zee Cinema HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD -{[Raja-IPTV]}-
 https://www.bdtubelive.xyz/new.m3u8?id=151
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",9XM Music -{[Raja-IPTV]}-
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
