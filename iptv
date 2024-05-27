@@ -151,7 +151,7 @@ https://raja-iptv.netlify.app/m3u/Tlc.m3u8
 https://raja-iptv.netlify.app/m3u/Dmax.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png",Travel Channel -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg",HGTV -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png",HGTV -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Food Network -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
