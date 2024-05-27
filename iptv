@@ -135,26 +135,26 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/i
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png", Discovery Bangla-{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Voot" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png", Discovery Bangla-{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Discovery.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
-#EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News -{[Raja-IPTV]}-
-
+#EXTINF:-1 group-title="Voot" tvg-logo="http://toffe.top/images/animalplanet.png",Animal Planet -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",Discovery Science -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png",Discovery Turbo -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Investigation Discovery -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png",TLC -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Tlc.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png",DMAX -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Dmax.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png",Travel Channel -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg",HGTV -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Food Network -{[Raja-IPTV]}-
+https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
 
 
 
