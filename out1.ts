@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-http://tgaadi-web.tech/play.php?id=22175
+http://sansat.net:88/02029761595924/9d089925dc60a821/95778
 #EXTINF:10,
-http://tgaadi-web.tech/play.php?id=22175
+http://sansat.net:88/02029761595924/9d089925dc60a821/95778
