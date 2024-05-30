@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:6
-## Generated with https://github.com/google/shaka-packager version e97c893-release
 #EXT-X-TARGETDURATION:11
 #EXT-X-MAP:URI="video_init.mp4"
 #EXTINF:10.000,
