@@ -22,7 +22,7 @@ http://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Gubbare -{[Raja-IPTV]}
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD 1 -{[Raja-IPTV]}-
-https://allinonereborn.tech/jio.m3u8?id=2548
+https://raja-iptv.netlify.app/star/star_jalsha.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD 2 -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/95769
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD 1 -{[Raja-IPTV]}-
