@@ -45,7 +45,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD -{[Raja-IPTV]}-
 http://tv.cloudcdn.me/live.ts?channelId=213&deviceMac=00:1A:79:0E:F8:A1
-#EXTINF:-1 group-title="Zee" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",Zee Cinema HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Zee" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",Zee Cinema -{[Raja-IPTV]}-
 http://tv.cloudcdn.me/live.ts?channelId=214&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",9XM Music -{[Raja-IPTV]}-
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -141,8 +141,10 @@ https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
 https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",Nat Geo -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/96239
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/ht2Bb8kP/512.png",Star Movies Select HD -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Discovery" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png",Star Movies Select HD -{[Raja-IPTV]}-
 http://xtv.ooo:8080/boss7770035788/navid@47855098/66315
+#EXTINF:-1 group-title="Discovery" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",Star Movies HD -{[Raja-IPTV]}-
+http://tv.cloudcdn.me/live.ts?channelId=198&deviceMac=00:1A:79:0E:F8:A1
 
 
 
