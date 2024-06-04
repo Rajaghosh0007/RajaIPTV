@@ -3,11 +3,9 @@
 http://xtv.ooo:8080/boss7770035788/navid@47855098/153175
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Hungama -{[Raja-IPTV]}-
 http://xtv.ooo:8080/boss7770035788/navid@47855098/150480
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama -{[Raja-IPTV]}-
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=8cc4f85dc0437a8c3
 #EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick -{[Raja-IPTV]}
 http://xtv.ooo:8080/boss7770035788/navid@47855098/150482
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network -{[Raja-IPTV]}-
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo -{[Raja-IPTV]}-
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
@@ -17,8 +15,12 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/Fallback/index.
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Kids.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yah -{[Raja-IPTV]}-
 http://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Gubbare -{[Raja-IPTV]}
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",Gubbare -{[Raja-IPTV]}
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior -{[Raja-IPTV]}-
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+#EXTINF:-1 group-title="Voot" tvg-logo="https://logodix.com/logo/900709.png",Nick HD+ -{[Raja-IPTV]}-
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD 1 -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/star/star_jalsha.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsha HD 2 -{[Raja-IPTV]}-
@@ -27,15 +29,11 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/95769
 https://allinonereborn.tech/jio.m3u8?id=2550
 #EXTINF:-1 group-title="Star" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",Jalsha Movies HD 2 -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/95770
-#EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 1 -{[Raja-IPTV]}-
-http://sansat.net:88/02029761595924/9d089925dc60a821/100716
-#EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD 2 -{[Raja-IPTV]}-
-http://xtv.ooo:8080/Sehrish/12345/245893
-#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema HD 1 -{[Raja-IPTV]}-
-http://xtv.ooo:8080/Sehrish/12345/245897
-#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema HD 2 -{[Raja-IPTV]}-
-http://sansat.net:88/02029761595924/9d089925dc60a821/95774
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/0yHGPrfQ/29511835-1922443984455980-2015363906932341957-n.png",Zee 24 Ghanta -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/boss7770035788/navid@47855098/245893
+#EXTINF:-1 group-title="Zee" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/boss7770035788/navid@47855098/245897
+#EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png",Zee 24 Ghanta -{[Raja-IPTV]}-
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News -{[Raja-IPTV]}-
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
@@ -51,7 +49,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Zee" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD -{[Raja-IPTV]}-
 https://www.bdtubelive.xyz/new.m3u8?id=151
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/LXkZYszj/download.png",9XM Music -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",9XM Music -{[Raja-IPTV]}-
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD -{[Raja-IPTV]}-
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
@@ -75,24 +73,12 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",SONY TEN 2 -{[Raja-IPTV]}-
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3 HD -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",SONY TEN 3 -{[Raja-IPTV]}-
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY TEN 4 HD -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY TEN 4 -{[Raja-IPTV]}-
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY TEN 5 HD -{[Raja-IPTV]}-
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY TEN 5 -{[Raja-IPTV]}-
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",SONY BBC EARTH -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",SONY MARATHI -{[Raja-IPTV]}-
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",SONY AATH -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD -{[Raja-IPTV]}-
@@ -113,10 +99,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats HD -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior -{[Raja-IPTV]}-
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
-#EXTINF:-1 group-title="Voot" tvg-logo="https://logodix.com/logo/900709.png",Nick HD+ -{[Raja-IPTV]}-
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",SPORTS 18 HD -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Voot" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",SPORTS 18 Khel -{[Raja-IPTV]}-
@@ -157,10 +139,11 @@ https://raja-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Food Network -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Nat Geo -{[Raja-IPTV]}-
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",Nat Geo -{[Raja-IPTV]}-
 http://sansat.net:88/02029761595924/9d089925dc60a821/96239
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Star Movies -{[Raja-IPTV]}-
-http://sansat.net:88/02029761595924/9d089925dc60a821/93668
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/ht2Bb8kP/512.png",Star Movies Select HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/boss7770035788/navid@47855098/66315
+
 
 
 
