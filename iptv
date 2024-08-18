@@ -121,8 +121,8 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/inde
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="Voot",CNN NEWS 18 -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="Voot",News18 Bangla News -{[Raja-IPTV]}-
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="NEWS",News18 Bangla -{[Raja-IPTV]}-
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Discovery",Discovery Bangla HD-{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Discovery.m3u8
 #EXTINF:-1 tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Discovery",Animal Planet HD -{[Raja-IPTV]}-
