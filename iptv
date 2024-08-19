@@ -88,22 +88,22 @@ https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News",News18 Bangla -{[Raja-IPTV]}-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png" group-title="Discovery",Discovery Bangla HD-{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Discovery.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Discovery",Animal Planet HD -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Animal_Planet.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Discovery",Discovery Science -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Discovery_Science.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Science.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" group-title="Discovery",Discovery Turbo -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Discovery",Investigation Discovery -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Investigation-Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery",TLC -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Tlc.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery",DMAX -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Dmax.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Dmax.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery",Travel Channel -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Travel-Channel.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery",HGTV -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="Discovery",Food Network -{[Raja-IPTV]}-
-https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Food-Network.m3u8
