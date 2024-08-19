@@ -87,9 +87,9 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News",News18 Bangla -{[Raja-IPTV]}-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Discovery",Discovery Bangla HD-{[Raja-IPTV]}-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png" group-title="Discovery",Discovery Bangla HD-{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Discovery.m3u8
-#EXTINF:-1 tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Discovery",Animal Planet HD -{[Raja-IPTV]}-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Discovery",Animal Planet HD -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Discovery",Discovery Science -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Discovery_Science.m3u8
