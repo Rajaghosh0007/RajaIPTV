@@ -59,6 +59,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Sheemaroo Bollywood -{[Raja-IPTV]}-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Mtv Beats -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/66273.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9XM Music -{[Raja-IPTV]}-
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Sangeet Bangla -{[Raja-IPTV]}-
@@ -93,10 +95,20 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sony Liv",SONY AATH -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Voot",Colors Bangla HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/245895.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Voot",Colors Cineplex HD -{[Raja-IPTV]}-
 http://xtv.ooo:8080/live/boss7770035788/navid@47855098/206315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Voot",Colors Cineplex Bollywood -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/112983.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Star Sport 1 HD Hindi -{[Raja-IPTV]}-
-http://tv.cloudcdn.me/live.ts?channelId=295&deviceMac=00:1A:79:51:31:21
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/167573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Star Sport 2 HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/109988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Star Sport 3 Hindi -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/167577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Sport 18 Khel -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/302600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",JC Sports 24x7 -{[Raja-IPTV]}-
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",Discovery Bangla HD-{[Raja-IPTV]}-
