@@ -29,7 +29,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Zee 24 Ghanta -{[Raja-IPTV]}-
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",R Bangla
+#EXTINF:-1 tvg-logo="" group-title="News",R Bangla -{[Raja-IPTV]}-
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",News18 Bangla -{[Raja-IPTV]}-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
@@ -57,7 +57,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zee",Zing -{[Raja-IPTV]}-
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-logo="" group-title="Movies",Sheemaroo Bollywood -{[Raja-IPTV]}-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",9XM Music -{[Raja-IPTV]}-
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -127,6 +127,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD -{[Raja-IPTV]}-
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Discovery",History Tv -{[Raja-IPTV]}-
+https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
 
