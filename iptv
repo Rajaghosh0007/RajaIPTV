@@ -57,6 +57,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zee",Zing -{[Raja-IPTV]}-
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Star",Star Gold HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/109959.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Star",Star Gold Select HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/109960.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Star",Star Plus HD -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/109949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Sheemaroo Bollywood -{[Raja-IPTV]}-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Mtv Beats -{[Raja-IPTV]}-
@@ -121,6 +127,8 @@ https://raja-iptv.netlify.app/m3u/Discovery_Science.m3u8
 https://raja-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",Investigation Discovery -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Discovery",National Geographic -{[Raja-IPTV]}-
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/109977.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",TLC -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Tlc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",DMAX -{[Raja-IPTV]}-
