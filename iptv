@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney -{[Raja-IPTV]}-
-https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/kids/disney/disney.m3u8
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/kids/disney/output.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Hungama -{[Raja-IPTV]}-
 http://xtv.ooo:8080/boss7770035788/navid@47855098/150480
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick -{[Raja-IPTV]}
@@ -139,10 +139,8 @@ https://raja-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",Food Network -{[Raja-IPTV]}-
 https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Discovery",Love nature 1 -{[Raja-IPTV]}-
+#EXTINF:-1 tvg-logo="" group-title="Discovery",Love nature -{[Raja-IPTV]}-
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Discovery",Love Nature 2 -{[Raja-IPTV]}-
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",History Tv -{[Raja-IPTV]}-
 https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD -{[Raja-IPTV]}-
