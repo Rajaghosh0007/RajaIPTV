@@ -145,8 +145,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star Movies HD -{[Raja-IPTV]}-
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",test -{[Raja-IPTV]}-
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451317.ts
 
 
 
