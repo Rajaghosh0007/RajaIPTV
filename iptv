@@ -143,6 +143,8 @@ https://raja-iptv.netlify.app/m3u/Hgtv.m3u8
 https://raja-iptv.netlify.app/m3u/Food-Network.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",Love nature -{[Raja-IPTV]}-
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Discovery",Wild Earth -{[Raja-IPTV]}-
+https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Discovery",History Tv -{[Raja-IPTV]}-
 https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
