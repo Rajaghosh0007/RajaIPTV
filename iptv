@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney -{[Raja-IPTV]}-
-http://xtv.ooo:8080/live/08052024/0805202424/167551.m3u8
+http://78.40.140.231:9231/86e4228d28529e5cb7bcba3a2bc27a025d79a07a973e1c44396b11ea15adbfbe7948d5f6/index.m3u8?token=e42fec271cca6dffd78cfcf07f9acdaae8a6b8a148f14d15c482d2fc534bd58220b04995b5167ef6c07431e4f769f5f49e3fb0ef689bb18175aa1af0f30a24e7708681b744e0-ac69b18e7e520e45b51cb70c1a77f3ed
 #EXTINF:-1 tvg-logo="" group-title="Kids",Doramon 24x7 -{[Raja-IPTV]}-
 http://xtv.ooo:8080/live/08052024/0805202424/388459.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Hungama -{[Raja-IPTV]}-
