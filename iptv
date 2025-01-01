@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney -{[Raja-IPTV]}-
-http://filex.tv:8080/Multicity/1234/246763
+https://vps.its-nayeemparvez.xyz/disneyindia/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Doramon 24x7 -{[Raja-IPTV]}-
 http://xtv.ooo:8080/live/08052024/0805202424/388459.ts
 #EXTINF:-1 tvg-logo="" group-title="Kids",Hungama -{[Raja-IPTV]}-
