@@ -49,18 +49,18 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",24X7 Gopal Bhar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pxj1jp7M/gopal-bhar.jpg" group-title="Bangla",24X7 Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",24X7 Motu Patlu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="Bangla",24X7 Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",24X7 Doraemon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrsjZ1v/doraemon.jpg" group-title="Bangla",24X7 Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",24X7 Batul The Great 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7pGtkJb/bantul.jpg" group-title="Bangla",24X7 Batul The Great 
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla",24X7 Oggy and the cockroaches
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="Bangla",24X7 Oggy and the cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla", 24X7 CID
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg" group-title="Bangla", 24X7 CID
 https://live20.bozztv.com/giatvplayout7/giatv-210779/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla", 24X7 Crime Patrol
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFSwCT9W/crime-patrol.jpg" group-title="Bangla", 24X7 Crime Patrol
 https://live20.bozztv.com/giatvplayout7/giatv-210780/tracks-v1a1/mono.ts.m3u8
 
