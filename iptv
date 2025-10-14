@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH -{[Raja-IPTV]}-
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:b6:73:32&stream=1423394&extension=ts&play_token=5W6pCrQDXm
+http://azers.online/play/live.php?mac=00:1A:79:01:CE:7F&stream=277390&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yah -{[Raja-IPTV]}-
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv",SONY MAX HD -{[Raja-IPTV]}-
