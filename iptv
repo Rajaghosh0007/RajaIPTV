@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLycWBxy/disney-channel-0.png" group-title="Bangla", Disney -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Disney.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSk6zYRW/nicknewlogo.png" group-title="Bangla", nick -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/nick.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Bangla", Discovery -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Bangla", Discovery Science -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Science.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Bangla", Animal Planet -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yah -{[Raja-IPTV]}-
@@ -29,6 +35,8 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/starjalsha.m3u8
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Voot",Colors Bangla HD -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Bangla", Colors CineplexHD -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/colorscineplexhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMCcTmW/R-Bangla-transparent-PNG.png" group-title="News",R Bangla -{[Raja-IPTV]}-
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_Bangla_News.png" group-title="NEWS",News18 Bangla -{[Raja-IPTV]}-
