@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Disney.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/nick.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Bangla", Pogo -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/pogo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL52HkfQ/channels4-profile.jpg" group-title="Sony Liv",Cartoon Network -{[Raja-IPTV]}-
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Bangla", Discovery -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrX8PnZz/download.png" group-title="Bangla",National Geographic HD -{[Raja-IPTV]}-
@@ -27,8 +29,6 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/sonyten1.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonybbc.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sony Liv",Star Sports 1 -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/starsports1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL52HkfQ/channels4-profile.jpg" group-title="Sony Liv",Cartoon Network -{[Raja-IPTV]}-
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Sony Liv",Zee Bangla Hd -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Sony Liv",Star Jalsha Hd -{[Raja-IPTV]}-
