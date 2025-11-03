@@ -33,6 +33,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Sony Liv",Star Jalsha Hd -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d14f2KWR/images.jpg" group-title="Sony Liv",Jalsha Movies Hd -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxz53Ppf/images.jpg" group-title="Sony Liv",Zee Cinema HD -{[Raja-IPTV]}-
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Voot",Colors Bangla HD -{[Raja-IPTV]}-
