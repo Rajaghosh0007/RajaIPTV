@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:RESOLUTION=1000x1080
 http://skunkytv.live/play/live.php?mac=00:1A:79:34:65:30&stream=281356&extension=.m3u8
