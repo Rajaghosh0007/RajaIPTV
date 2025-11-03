@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/nick.m3u8
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Bangla", Discovery -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Bangla", Discovery Science -{[Raja-IPTV]}-
-https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery-Science.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrX8PnZz/download.png" group-title="Bangla",National Geographic HD -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Bangla", Animal Planet -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH -{[Raja-IPTV]}-
