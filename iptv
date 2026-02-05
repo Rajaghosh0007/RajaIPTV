@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Test -{[Raja-IPTV]}-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLWLywmj/Disney-Channel-2014-HD.png" group-title="Bangla", Disney HD -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/DisneyHd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLycWBxy/disney-channel-0.png" group-title="Bangla", Disney -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Disney.m3u8
