@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Test -{[Raja-IPTV]}-
+https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/DisneyHd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLycWBxy/disney-channel-0.png" group-title="Bangla", Disney -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Disney.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSk6zYRW/nicknewlogo.png" group-title="Bangla", Nick -{[Raja-IPTV]}-
@@ -83,5 +85,4 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMtrZNRk/bangla-kirtan.jpg" group-title="Bangla", 24X7 OM Bangla -{[Raja-IPTV]}-
 https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Test -{[Raja-IPTV]}-
-http://66.102.120.18:8000/play/a013/index.m3u8
+
