@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Bangla", Animal Planet -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH -{[Raja-IPTV]}-
-https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonyaath.m3u8
+http://103.176.90.137/play/live.php?mac=00:1B:79:45:45:05&stream=1423394&extension=ts&play_token=.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yah -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Sonyyah.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv",SONY MAX HD -{[Raja-IPTV]}-
