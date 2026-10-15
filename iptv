@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HL52HkfQ/channels4-profile.jpg" group-title="Sony Liv",Cartoon Network -{[Raja-IPTV]}-
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="Bangla", Discovery -{[Raja-IPTV]}-
-https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/Discovery.m3u8
+http://103.176.90.137/play/live.php?mac=00:1B:79:45:45:05&stream=1531199&extension=ts&play_token=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrX8PnZz/download.png" group-title="Bangla",National Geographic HD -{[Raja-IPTV]}-
 https://raw.githubusercontent.com/Rajaghosh0007/RajaIPTV/main/natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Bangla", Animal Planet -{[Raja-IPTV]}-
